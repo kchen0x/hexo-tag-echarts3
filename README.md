@@ -1,0 +1,1 @@
+[![npm](https://img.shields.io/npm/v/hexo-tag-echarts3.svg)]() [![Travis](https://img.shields.io/travis/quentin-chen/hexo-tag-echarts3.svg)]() 
