@@ -13,7 +13,7 @@ $ npm install hexo-tag-echarts --save
 ## Usage
 
 ```
-{% echarts 400 '81%' %}
+{% echarts 400 '85%' %}
 \\TODO echarts option goes here
 {% endecharts %}
 ```
